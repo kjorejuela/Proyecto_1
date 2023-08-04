@@ -1,0 +1,3071 @@
+fileFormatVersion: 2
+guid: e3d52aa9a8e19144a87d85e3a20ad15b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 511
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c5800ce92b32c42aea454fd965ab88
+      internalID: 1233183993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_1
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1025
+        width: 511
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a571beb2392ad4d9a2ab6769920067
+      internalID: -1202701175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 1536
+        height: 857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f899741de5d2c2347a00539d653bb9e5
+      internalID: -911563504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_3
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 8
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a56690fc130b941ba027301d6c1a9a
+      internalID: -1155996644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_4
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 9
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c1e4539f804b047bab236f828a536e
+      internalID: -545406314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_5
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 4
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cce775d1e30174896cd2ee55d38bb0
+      internalID: -1386676883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c6cfcbcf74f3e4cb4f2006c653d604
+      internalID: -1797207154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_7
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 9
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdbe4b2a66d2db46a6953f65477f79d
+      internalID: -1980762982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_8
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2353c7d6d524c4994b4f588906053c
+      internalID: -313614535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_9
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 18
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64341bf4eb43ab4cb046a51027e13ab
+      internalID: -1508645961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_10
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 5
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4bb47d02a0e81439363503cd21076f
+      internalID: -1696559283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_11
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d27406560d73ea4e90463a460f64e4d
+      internalID: 1483457394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_12
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db256dc6d3430499cccc890df53c07
+      internalID: 956129977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_13
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 9
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6c5673e2ab30b44b4e1ca67e56c28d
+      internalID: 1767228935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_14
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 9
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c5da3e61e50824dbd0b7b8ae0bcd9e
+      internalID: -1224665636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_15
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e719619e5560be48b5fe38a7db1f343
+      internalID: 1240734104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_16
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 10
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e011ec690ce8a940a2da6cb91d3ff85
+      internalID: -62757528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_17
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 7
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082e0b6f7f3712048bfb2487ca3dcabd
+      internalID: -2046546757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_18
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 16
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c41fb4a3c1d0b4386ec461a8c8492d
+      internalID: -1381771103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 9
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c694c005b534048be228867d369253
+      internalID: -503948156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_20
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 11
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b679b72c1cf67f45a3c83ff90214c62
+      internalID: 303901978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_21
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 12
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0016b763d993c438b5368ec2b92691
+      internalID: 2073175558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_22
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 12
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c090cd6d3b7ebe45b5245b94c2c3c83
+      internalID: -762046466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_23
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b0aa90f12ba994ebf8a80bc69bcb06
+      internalID: -1792027995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_24
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 0
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e092429c83fde49ad218a60b3f09e0
+      internalID: 1722611965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_25
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42923f8d5fb4b2458f4cbe4a058f38d
+      internalID: 578401704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97103719fc17e614da96688aec9df1c9
+      internalID: 542111949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_27
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 4
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b136eb3fd4e6dd41b79bb080e959069
+      internalID: -1804841344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_28
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0999a7feceaa2c240a771851c18d349f
+      internalID: 442909216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_29
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 0
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3a7d66d7f8b1446b030b502a09313e
+      internalID: -1032418893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_30
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b21ed6ca9b070428180e689799072f
+      internalID: -759093260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_31
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5718a2f7113bf4caff30effe09bb74
+      internalID: 544404904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_32
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 12
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c46076b86e3ad249a669b6840687a9f
+      internalID: 740639700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_33
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 0
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb7f75f31c565a408a15aa4f7cd67ca
+      internalID: -1828848179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_34
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14160761d96aa0841be1a61fd446d7d5
+      internalID: 2011683552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_35
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 0
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369aed4e7026e9c4dbef2340484c7275
+      internalID: 25251357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_36
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1143576c4a2526f429b675c6460c216f
+      internalID: 1654418607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_37
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefa849c84f027048aa2e78c4b91323c
+      internalID: 361201832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_38
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd5221cdb9c9d447b73191649d57c64
+      internalID: 691708702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_39
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 6
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1eac2ad518483478b4c5f93de2f8f9
+      internalID: -223066456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_40
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 5
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291110c9c19b3f94eafba358c24e8339
+      internalID: -845930692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_41
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 0
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759258122d64b6449bc96187648df6fb
+      internalID: -163142038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_42
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95fd46aee6b3734b943d2dc32a6587a
+      internalID: -2002580076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_43
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 8
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ab79c882936744185b54def71a4a34
+      internalID: 2112424459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_44
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 10
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d601fa2c48fcd14bad4c42d4a21dfcd
+      internalID: -1894207718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_45
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef5508ad3787514285b3a5049568c27
+      internalID: -624878820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_46
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 0
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8388350f52abc89418e801fe3f71bb7d
+      internalID: -1425387765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_47
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9117a2c0af6f24a8144b77bda2a21b
+      internalID: 1390385129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_48
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b957d72f40d7e4a4fb88cc6a5eb1c728
+      internalID: -1465372987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_49
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 10
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f870286cb4dba7b4ba380519c5779473
+      internalID: -1394523973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_50
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 0
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac66aa20ac3a7540b6fe20738799c7d
+      internalID: -2017526816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_51
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 12
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8c88c1798f1d6468e92a9b68f73cf3
+      internalID: 149887429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_52
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 7
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a3d61920ebc2543828f4af8e06cce6
+      internalID: -1604754126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_53
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 6
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22febf42a85dcd74b94bb676b7ff5c08
+      internalID: -1589968108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_54
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e1880aa6a03c242ba898176cd62e9a
+      internalID: -30753433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_55
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a931ebaef91d1d4ea3d2774ef689200
+      internalID: 80431163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_56
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 11
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689888c61572e4f48a7cbd92656fdb77
+      internalID: 1870609193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_57
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d552786c08c25240a41ad2bc5968273
+      internalID: -2056484339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_58
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 6
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099ed42c7db3df640a593da26baaeb4b
+      internalID: 643577993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_59
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 5
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb72cdbd9082e1b479ce194a5de8b1b6
+      internalID: -1659282304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_60
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 0
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31786da26ae00447a6333e6e5745247
+      internalID: 658901222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_61
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 4
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713880e903c56a24e96aae5e165891a0
+      internalID: -867027412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_62
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 0
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe45fb4d747d174c844b97daee35e69
+      internalID: -1833530088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_63
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87591447f4aed94886a55bff27dc7b3
+      internalID: -1244790145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_64
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 0
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fc1a0d542b12945ad0ae0a84a14d6f
+      internalID: 194283718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_65
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49c11d2657f0b941ae6e10cabedd6a5
+      internalID: 1576126171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_66
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 6
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990f52be5f156c04cb43808d3f113030
+      internalID: -1153008593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_67
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 0
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675453f72c3271f4f9d7d010f059ef79
+      internalID: 1281972984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_68
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 8
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd82d0127ac93a645ba27b2d741eb7c7
+      internalID: -1884976422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_69
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 3
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c8853a81a9685438ed5b51702f6854
+      internalID: 1192390061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_70
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 0
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6ce9fc302398a48ab424fbd2b7cc20
+      internalID: 1277178710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_71
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4864ed173afb824b928e97af7213844
+      internalID: 1851793240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_72
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ab1f61192db494881ddefbda0bd4d5
+      internalID: 1240638833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_73
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f1baf84c619de45836313b9a7f6ce3
+      internalID: 1658757045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_74
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9394b252dcf3141459cf9d11b4c25cd5
+      internalID: -28091726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_75
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70ccc8ce9223cd4785f7304c0005d39
+      internalID: -1487984210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_76
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6dd9f479055ff40b99e1401057c495
+      internalID: -649684659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_77
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5668eb5cf4bc3544692c08ddfd270bca
+      internalID: 1764851807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_78
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 6
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289efcc75081f5741a88aa0c8003ebf9
+      internalID: -1529046654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_79
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce63303e58ba864db924760c54b28e7
+      internalID: 699045308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_80
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8049b7885f3a2f24db2fae4263c1d4d4
+      internalID: 1236851650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_81
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 4
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af48bf9852a77c46a2a84e95bbe6b8f
+      internalID: -1964412089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_82
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bdc048a7861e645a9a1469216cdfdd
+      internalID: 1490994239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_83
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093187b7ba8eb1c4995723b3d349b39c
+      internalID: -1010674861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_84
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ccdb140765c6a4b91f21e6f85cad40
+      internalID: 774841867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_85
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31698567ce340c942a4728d6c6db4e25
+      internalID: 53209397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_86
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a627185a14fd4df4ea56a89793018513
+      internalID: -1670686868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_87
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b881c9f7ce82a42893c98eb25d0b24
+      internalID: -1434132295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_88
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 5
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0838fb4c16f18684fbf4a44cd674e72d
+      internalID: -1603562681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_89
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0256d5be86e04e445af7416815cd6f1e
+      internalID: 1371410424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_90
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 4
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c62cde0e1bcd4c4d9685cf4906fed06
+      internalID: -1944186148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_91
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d187d33efc0b39f46835983a43d46b3f
+      internalID: 1850648556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_92
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cef6571b56c97e49917040bf6c2d2dc
+      internalID: 309178676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_93
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd8df8adf8ed87489f9113b839d3345
+      internalID: -1582433473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_94
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a57dad6fea3ec443a7845a9142c2d02
+      internalID: -1125202823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_95
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b394950fc058dee41ba5ba5be20b1edd
+      internalID: -231302784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_96
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc3aa9735c9c3f4c807f6ade7056113
+      internalID: -1690372533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_97
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 3
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56cc35ec539369429c02b8edd2d31a1
+      internalID: 1894160457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_98
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b537ae54441b624690b770d46c4f8de
+      internalID: -142819218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_99
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 0
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b8f1594a7a05740bd83ff41975def2
+      internalID: -397634238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_100
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3e47f245e121b44be86145485f3310
+      internalID: -750513747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_101
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 3
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a158ea43301509d4dac871a061085be3
+      internalID: 452546406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_102
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bf15194284b1d4a852c62db4c2bf13
+      internalID: 1593892397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_103
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 0
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da844fa46dcba5d49bf96dec8224753d
+      internalID: -2140419062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_104
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2b5f86790af5e45981dcb6ccf8568a
+      internalID: 84144891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_105
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cff779260327f64694aacb982c25011
+      internalID: -591430747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_106
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 6
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbfda4dce8bceb45bb02e71d8383a02
+      internalID: 400017871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_107
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 0
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820e703b3a9111c40a5e70553164fae1
+      internalID: 975547600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_108
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1788333b7ac7d499d5512a2fab32eb
+      internalID: -360020379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_109
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 0
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284106495b191ef41bcb4129d77a8035
+      internalID: -1149730729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_110
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1c1c5fc3d79d5458dd2ef9032c4df6
+      internalID: -2120692572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_111
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98f67e98c17ff14d97890585cc38dbb
+      internalID: 172906950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_112
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adcb67cd2de3bb47871ce5a0e0c915f
+      internalID: 402650495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_113
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d070110e6108a8e43b721bb6dc1e2e25
+      internalID: -1840109875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_114
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151ca119e6f7b9b4aad7db4fff7fbecd
+      internalID: 2065691174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_115
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3384969945a2fc468cbed8ea3ce5622
+      internalID: -1692021534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_116
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 0
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeef6c931739c5a4692e36996ff86583
+      internalID: 1080725915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_117
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 0
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e05c44a06d75c343a529d32594aa8c5
+      internalID: 1741991226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_118
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 57
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333ca475f4f779443a142e1f629ebd50
+      internalID: -943360327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_119
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 0
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f8148a41c6b0e488016a1a231d2c08
+      internalID: 1347009730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_120
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11d30f4bc856a54788fa7296d8cf0c5
+      internalID: -434778895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_121
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238d5c1544839c3448c812422f4ad77e
+      internalID: 646340536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_122
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9420c1b1776f86744baf8645eae03185
+      internalID: 1160838328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_123
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060fda7995a78714b8decc687f23306c
+      internalID: -27849375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_124
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c989db14cedd23a418931c1d498c7e80
+      internalID: -621983335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_125
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 0
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406a0961235a9cc4c90322040adb9c26
+      internalID: -190783990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_126
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a313c150b921f748aad262ecae45c36
+      internalID: -827423072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_127
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1939d4d584ec3294782a0f01d3ef1a84
+      internalID: -371302237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_128
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d0cd9be8bd30c418fb3b32019fdbd1
+      internalID: 584326576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_129
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c9dccfdb63ef34f9054373f5a4f35d
+      internalID: 68063297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_130
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 0
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec8b3933a2c8574aace5585f6a19d48
+      internalID: -1312309625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_131
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 0
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7180f351c632294ba72ae89951d41bf
+      internalID: -814921868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_132
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 0
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454cafc97ab45674cb65bc333b588448
+      internalID: 386203980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetRock_WaterBlockers_133
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 0
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aee383ebe76407489a980a0bbc81fa4
+      internalID: -1584850096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TilesetRock_WaterBlockers_0: 1233183993
+      TilesetRock_WaterBlockers_1: -1202701175
+      TilesetRock_WaterBlockers_10: -1696559283
+      TilesetRock_WaterBlockers_100: -750513747
+      TilesetRock_WaterBlockers_101: 452546406
+      TilesetRock_WaterBlockers_102: 1593892397
+      TilesetRock_WaterBlockers_103: -2140419062
+      TilesetRock_WaterBlockers_104: 84144891
+      TilesetRock_WaterBlockers_105: -591430747
+      TilesetRock_WaterBlockers_106: 400017871
+      TilesetRock_WaterBlockers_107: 975547600
+      TilesetRock_WaterBlockers_108: -360020379
+      TilesetRock_WaterBlockers_109: -1149730729
+      TilesetRock_WaterBlockers_11: 1483457394
+      TilesetRock_WaterBlockers_110: -2120692572
+      TilesetRock_WaterBlockers_111: 172906950
+      TilesetRock_WaterBlockers_112: 402650495
+      TilesetRock_WaterBlockers_113: -1840109875
+      TilesetRock_WaterBlockers_114: 2065691174
+      TilesetRock_WaterBlockers_115: -1692021534
+      TilesetRock_WaterBlockers_116: 1080725915
+      TilesetRock_WaterBlockers_117: 1741991226
+      TilesetRock_WaterBlockers_118: -943360327
+      TilesetRock_WaterBlockers_119: 1347009730
+      TilesetRock_WaterBlockers_12: 956129977
+      TilesetRock_WaterBlockers_120: -434778895
+      TilesetRock_WaterBlockers_121: 646340536
+      TilesetRock_WaterBlockers_122: 1160838328
+      TilesetRock_WaterBlockers_123: -27849375
+      TilesetRock_WaterBlockers_124: -621983335
+      TilesetRock_WaterBlockers_125: -190783990
+      TilesetRock_WaterBlockers_126: -827423072
+      TilesetRock_WaterBlockers_127: -371302237
+      TilesetRock_WaterBlockers_128: 584326576
+      TilesetRock_WaterBlockers_129: 68063297
+      TilesetRock_WaterBlockers_13: 1767228935
+      TilesetRock_WaterBlockers_130: -1312309625
+      TilesetRock_WaterBlockers_131: -814921868
+      TilesetRock_WaterBlockers_132: 386203980
+      TilesetRock_WaterBlockers_133: -1584850096
+      TilesetRock_WaterBlockers_14: -1224665636
+      TilesetRock_WaterBlockers_15: 1240734104
+      TilesetRock_WaterBlockers_16: -62757528
+      TilesetRock_WaterBlockers_17: -2046546757
+      TilesetRock_WaterBlockers_18: -1381771103
+      TilesetRock_WaterBlockers_19: -503948156
+      TilesetRock_WaterBlockers_2: -911563504
+      TilesetRock_WaterBlockers_20: 303901978
+      TilesetRock_WaterBlockers_21: 2073175558
+      TilesetRock_WaterBlockers_22: -762046466
+      TilesetRock_WaterBlockers_23: -1792027995
+      TilesetRock_WaterBlockers_24: 1722611965
+      TilesetRock_WaterBlockers_25: 578401704
+      TilesetRock_WaterBlockers_26: 542111949
+      TilesetRock_WaterBlockers_27: -1804841344
+      TilesetRock_WaterBlockers_28: 442909216
+      TilesetRock_WaterBlockers_29: -1032418893
+      TilesetRock_WaterBlockers_3: -1155996644
+      TilesetRock_WaterBlockers_30: -759093260
+      TilesetRock_WaterBlockers_31: 544404904
+      TilesetRock_WaterBlockers_32: 740639700
+      TilesetRock_WaterBlockers_33: -1828848179
+      TilesetRock_WaterBlockers_34: 2011683552
+      TilesetRock_WaterBlockers_35: 25251357
+      TilesetRock_WaterBlockers_36: 1654418607
+      TilesetRock_WaterBlockers_37: 361201832
+      TilesetRock_WaterBlockers_38: 691708702
+      TilesetRock_WaterBlockers_39: -223066456
+      TilesetRock_WaterBlockers_4: -545406314
+      TilesetRock_WaterBlockers_40: -845930692
+      TilesetRock_WaterBlockers_41: -163142038
+      TilesetRock_WaterBlockers_42: -2002580076
+      TilesetRock_WaterBlockers_43: 2112424459
+      TilesetRock_WaterBlockers_44: -1894207718
+      TilesetRock_WaterBlockers_45: -624878820
+      TilesetRock_WaterBlockers_46: -1425387765
+      TilesetRock_WaterBlockers_47: 1390385129
+      TilesetRock_WaterBlockers_48: -1465372987
+      TilesetRock_WaterBlockers_49: -1394523973
+      TilesetRock_WaterBlockers_5: -1386676883
+      TilesetRock_WaterBlockers_50: -2017526816
+      TilesetRock_WaterBlockers_51: 149887429
+      TilesetRock_WaterBlockers_52: -1604754126
+      TilesetRock_WaterBlockers_53: -1589968108
+      TilesetRock_WaterBlockers_54: -30753433
+      TilesetRock_WaterBlockers_55: 80431163
+      TilesetRock_WaterBlockers_56: 1870609193
+      TilesetRock_WaterBlockers_57: -2056484339
+      TilesetRock_WaterBlockers_58: 643577993
+      TilesetRock_WaterBlockers_59: -1659282304
+      TilesetRock_WaterBlockers_6: -1797207154
+      TilesetRock_WaterBlockers_60: 658901222
+      TilesetRock_WaterBlockers_61: -867027412
+      TilesetRock_WaterBlockers_62: -1833530088
+      TilesetRock_WaterBlockers_63: -1244790145
+      TilesetRock_WaterBlockers_64: 194283718
+      TilesetRock_WaterBlockers_65: 1576126171
+      TilesetRock_WaterBlockers_66: -1153008593
+      TilesetRock_WaterBlockers_67: 1281972984
+      TilesetRock_WaterBlockers_68: -1884976422
+      TilesetRock_WaterBlockers_69: 1192390061
+      TilesetRock_WaterBlockers_7: -1980762982
+      TilesetRock_WaterBlockers_70: 1277178710
+      TilesetRock_WaterBlockers_71: 1851793240
+      TilesetRock_WaterBlockers_72: 1240638833
+      TilesetRock_WaterBlockers_73: 1658757045
+      TilesetRock_WaterBlockers_74: -28091726
+      TilesetRock_WaterBlockers_75: -1487984210
+      TilesetRock_WaterBlockers_76: -649684659
+      TilesetRock_WaterBlockers_77: 1764851807
+      TilesetRock_WaterBlockers_78: -1529046654
+      TilesetRock_WaterBlockers_79: 699045308
+      TilesetRock_WaterBlockers_8: -313614535
+      TilesetRock_WaterBlockers_80: 1236851650
+      TilesetRock_WaterBlockers_81: -1964412089
+      TilesetRock_WaterBlockers_82: 1490994239
+      TilesetRock_WaterBlockers_83: -1010674861
+      TilesetRock_WaterBlockers_84: 774841867
+      TilesetRock_WaterBlockers_85: 53209397
+      TilesetRock_WaterBlockers_86: -1670686868
+      TilesetRock_WaterBlockers_87: -1434132295
+      TilesetRock_WaterBlockers_88: -1603562681
+      TilesetRock_WaterBlockers_89: 1371410424
+      TilesetRock_WaterBlockers_9: -1508645961
+      TilesetRock_WaterBlockers_90: -1944186148
+      TilesetRock_WaterBlockers_91: 1850648556
+      TilesetRock_WaterBlockers_92: 309178676
+      TilesetRock_WaterBlockers_93: -1582433473
+      TilesetRock_WaterBlockers_94: -1125202823
+      TilesetRock_WaterBlockers_95: -231302784
+      TilesetRock_WaterBlockers_96: -1690372533
+      TilesetRock_WaterBlockers_97: 1894160457
+      TilesetRock_WaterBlockers_98: -142819218
+      TilesetRock_WaterBlockers_99: -397634238
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
